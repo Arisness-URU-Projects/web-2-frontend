@@ -14,4 +14,3 @@ pnpm-debug.log*
 .env.production.local
 Dockerfile
 .dockerignore
-nginx.conf
